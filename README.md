@@ -128,20 +128,3 @@ Reports:
 The test set (`eval/test_questions.json`) covers all 7 companies with 2 narrative questions each.
 
 ---
-
-## Project Structure
-
-```
-financial-research-copilot/
-├── chatbot.py               # Claude + tools (includes search_filings)
-├── streamlit_app.py         # UI: Chat tab + RAG Evaluation tab
-├── data_extraction.py       # XBRL extraction utility
-├── rag_ingest.py            # ETL: 10-K → chunks → FAISS
-├── rag_retriever.py         # Hybrid retriever + search_filings()
-├── evaluate.py              # Hit Rate + MRR evaluation
-├── eval/test_questions.json # 14 evaluation questions
-├── requirements.txt
-├── .env.example
-├── data/raw/                # Downloaded SEC filings (built by rag_ingest)
-└── vectorstore/             # FAISS index + manifest.json (built by rag_ingest)
-```
