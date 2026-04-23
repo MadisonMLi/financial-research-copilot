@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What are Apple's primary risk factors related to supply chain concentration in China?",
+    "ticker": "AAPL",
+    "expected_keyword": "china"
+  },
+  {
+    "question": "How does Apple describe its services segment and recurring revenue strategy?",
+    "ticker": "AAPL",
+    "expected_keyword": "services"
+  },
+  {
+    "question": "How does Microsoft describe its strategy for artificial intelligence and OpenAI partnership?",
+    "ticker": "MSFT",
+    "expected_keyword": "artificial intelligence"
+  },
+  {
+    "question": "What does Microsoft say about Azure cloud growth and competitive pressure?",
+    "ticker": "MSFT",
+    "expected_keyword": "azure"
+  },
+  {
+    "question": "What manufacturing risks does Tesla identify in its 10-K?",
+    "ticker": "TSLA",
+    "expected_keyword": "manufacturing"
+  },
+  {
+    "question": "What does Tesla say about lithium and battery raw material supply?",
+    "ticker": "TSLA",
+    "expected_keyword": "lithium"
+  },
+  {
+    "question": "How does Meta describe its Reality Labs business and metaverse investments?",
+    "ticker": "META",
+    "expected_keyword": "reality labs"
+  },
+  {
+    "question": "What does Meta say about advertising regulation and privacy risks?",
+    "ticker": "META",
+    "expected_keyword": "privacy"
+  },
+  {
+    "question": "How does Amazon describe AWS competitive positioning?",
+    "ticker": "AMZN",
+    "expected_keyword": "aws"
+  },
+  {
+    "question": "What does Amazon disclose about labor and unionization risks?",
+    "ticker": "AMZN",
+    "expected_keyword": "labor"
+  },
+  {
+    "question": "What does Netflix say about password sharing and paid sharing initiatives?",
+    "ticker": "NFLX",
+    "expected_keyword": "sharing"
+  },
+  {
+    "question": "How does Netflix describe content production and licensing strategy?",
+    "ticker": "NFLX",
+    "expected_keyword": "content"
+  },
+  {
+    "question": "How does Alphabet describe Google Search competition from generative AI?",
+    "ticker": "GOOGL",
+    "expected_keyword": "search"
+  },
+  {
+    "question": "What does Alphabet say about regulatory and antitrust risks?",
+    "ticker": "GOOGL",
+    "expected_keyword": "antitrust"
+  }
+]
