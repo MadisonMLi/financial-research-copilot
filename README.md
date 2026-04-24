@@ -5,7 +5,8 @@ system, with Claude routing automatically between them based on the question.
 
 ## Demo Video
 
-[![Financial Research Copilot]([https://youtu.be/qO0IzU5ikOY)](https://youtu.be/qO0IzU5ikOY)
+[![Financial Research Copilot](https://img.youtube.com/vi/qO0IzU5ikOY/0.jpg)](https://youtu.be/qO0IzU5ikOY)
+
 
 
 | Pattern | When it's used | Built on |
