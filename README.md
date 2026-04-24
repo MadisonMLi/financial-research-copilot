@@ -3,6 +3,11 @@
 An agentic financial research assistant that combines **two AI patterns** in one
 system, with Claude routing automatically between them based on the question.
 
+## Demo Video
+
+[![Financial Research Copilot](https://img.youtube.com/vi/qO0IzU5ikOY/0.jpg)]([https://www.youtube.com/watch?v=qO0IzU5ikOY](https://youtu.be/qO0IzU5ikOY))
+
+
 | Pattern | When it's used | Built on |
 |---|---|---|
 | **Tool-Use over structured XBRL data** | Numerical questions: ratios, margins, growth, comparisons | Anthropic Claude tool calling + SEC XBRL API + yfinance + Pandas |
